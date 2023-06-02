@@ -5,6 +5,6 @@ Zadatak3 - Čitanje i keširanje podataka o potrošnji
 
 Projekat su radili:  
 Jovana Orestijevic - @jovanaOrestijevic  
-Stefan Delić -  
+Stefan Delić -  @steeffand  
 Tamara Buha - @tamarabuha  
-Sara Simović - 
+Sara Simović - @saarraass
