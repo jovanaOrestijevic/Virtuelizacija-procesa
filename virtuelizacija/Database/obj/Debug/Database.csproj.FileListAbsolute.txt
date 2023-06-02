@@ -1,0 +1,9 @@
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\bin\Debug\Database.dll
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\bin\Debug\Database.pdb
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\bin\Debug\Common.dll
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\bin\Debug\Common.pdb
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\obj\Debug\Database.dll
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Database\obj\Debug\Database.pdb

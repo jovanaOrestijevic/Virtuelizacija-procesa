@@ -1,0 +1,22 @@
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\bin\Debug\Client.exe.config
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\bin\Debug\Client.exe
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\bin\Debug\Client.pdb
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\bin\Debug\Common.dll
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\bin\Debug\Common.pdb
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.exe
+C:\Users\Pavle\Desktop\Projekti 2023\Vizualizacija procesa\Zadatak3\Client\obj\Debug\Client.pdb
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\bin\Debug\Client.exe.config
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\bin\Debug\Client.exe
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\bin\Debug\Client.pdb
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\bin\Debug\Common.dll
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\bin\Debug\Common.pdb
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.exe
+C:\Users\pavle.mojasevic\Downloads\11\Zadatak3\Client\obj\Debug\Client.pdb
